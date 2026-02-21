@@ -9,7 +9,7 @@ The game provides instant feedback whether the guess is too high or too low.
 
 ## 🚀 Live Demo
 
-
+https://jainyakeen02.github.io/Guess-the-number-game/
 
 ---
 
